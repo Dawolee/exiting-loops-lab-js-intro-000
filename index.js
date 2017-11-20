@@ -21,5 +21,5 @@ var keepGoing = (array, changeValue, skipValue) => {
 }
 
 var findBy = (array, findFn) => {
-  
+
 }
